@@ -112,10 +112,9 @@
 #u4_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:122px;
   word-wrap:break-word;
 }
 #u5_img {
@@ -137,10 +136,9 @@
 #u5_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:120px;
   word-wrap:break-word;
 }
 #u6_img {
@@ -162,9 +160,8 @@
 #u6_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:479px;
   word-wrap:break-word;
 }
