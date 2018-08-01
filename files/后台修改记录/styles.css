@@ -400,10 +400,9 @@
 #u16_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:120px;
   word-wrap:break-word;
 }
 #u17_img {
@@ -425,10 +424,9 @@
 #u17_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:591px;
   word-wrap:break-word;
 }
 #u18_img {
@@ -450,10 +448,9 @@
 #u18_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:7px;
+  width:128px;
   word-wrap:break-word;
 }
 #u19_img {
